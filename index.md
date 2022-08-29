@@ -1,8 +1,7 @@
 ## Welcome to Gere.Yeung Pages
 
-You can use the [editor on GitHub](https://github.com/maliucun/maliucun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an electrical engineer who work for SEW, a Germany company which is a top gear-motor manufacturer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
